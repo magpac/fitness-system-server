@@ -1,0 +1,9 @@
+server:
+  port: 8081
+spring:
+  application:
+    name: fitness-system-server
+  datasource:
+    url: jdbc:sqlserver://localhost:1433;trustServerCertificate=true;databaseName=GYM
+    username: app
+    password: Rm#Qc8F_v
